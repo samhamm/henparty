@@ -1,0 +1,10 @@
+* {
+  color: red;
+  background-color: lightyellow;
+  font-family: Verdana, san-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 200px;
+}
