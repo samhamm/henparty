@@ -1,0 +1,28 @@
+* {
+  color: red;
+  background-color: lightyellow;
+  font-family: 'Radley', serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Radley', serif;
+  font-size: 2em;
+}
+
+p {
+  text-align: center;
+  font-family: 'Radley', serif;
+
+}
+
+.img_container {
+  margin: 25px 25px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+    width: 30%;
+    border-radius: 50%;
+}
